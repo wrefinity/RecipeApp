@@ -1,0 +1,12 @@
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(182, 3, 3);
+    color: white;
+}
+
+.foot h5{
+    font-style: italic;
+    font-size: 14px;
+}
